@@ -1,6 +1,9 @@
 {
-    "updated":  "2026-11-05T16:30:35Z",
+    "updated":  "2026-11-12T11:36:28Z",
     "sites":  {
-
+                  "lord-filmbig.icu":  {
+                                           "moved":  true,
+                                           "url":  "https://lord-filmrx4.icu"
+                                       }
               }
 }
