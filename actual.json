@@ -1,9 +1,13 @@
 {
-    "updated":  "2026-11-17T14:49:56Z",
+    "updated":  "2026-11-20T12:54:01Z",
     "sites":  {
                   "lord-filmrx4.icu":  {
                                            "moved":  true,
                                            "url":  "https://lord-filmv34.icu"
+                                       },
+                  "lord-filmv34.icu":  {
+                                           "moved":  true,
+                                           "url":  "https://lord-film21h.icu"
                                        }
               }
 }
