@@ -1,17 +1,13 @@
 {
-    "updated":  "2026-11-25T04:28:54Z",
+    "updated":  "2026-11-27T06:56:46Z",
     "sites":  {
-                  "lord-filmv34.icu":  {
-                                           "moved":  true,
-                                           "url":  "https://lord-filmoo1.icu"
+                  "lord-filmoo1.icu":  {
+                                           "moved":  false,
+                                           "url":  ""
                                        },
-                  "lord-film21h.icu":  {
+                  "lord-filmqw2.icu":  {
                                            "moved":  true,
-                                           "url":  "https://lord-filmoo1.icu"
-                                       },
-                  "lord-filmxc22.icu":  {
-                                            "moved":  true,
-                                            "url":  "https://lord-filmoo1.icu"
-                                        }
+                                           "url":  "https://lord-filmbri1.icu"
+                                       }
               }
 }
